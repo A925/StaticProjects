@@ -1,0 +1,5 @@
+D:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\LandingPage.dll
+D:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\LandingPage.pdb
+D:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\obj\Debug\LandingPage.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\obj\Debug\LandingPage.dll
+D:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\obj\Debug\LandingPage.pdb
