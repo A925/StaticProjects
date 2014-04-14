@@ -3,3 +3,8 @@ D:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPa
 D:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\obj\Debug\LandingPage.csprojResolveAssemblyReference.cache
 D:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\obj\Debug\LandingPage.dll
 D:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\obj\Debug\LandingPage.pdb
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\LandingPage.dll
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\LandingPage.pdb
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\obj\Debug\LandingPage.csprojResolveAssemblyReference.cache
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\obj\Debug\LandingPage.dll
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\obj\Debug\LandingPage.pdb
