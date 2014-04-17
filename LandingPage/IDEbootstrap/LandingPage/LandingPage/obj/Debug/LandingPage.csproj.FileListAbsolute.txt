@@ -8,3 +8,7 @@ F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPa
 F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\obj\Debug\LandingPage.csprojResolveAssemblyReference.cache
 F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\obj\Debug\LandingPage.dll
 F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\obj\Debug\LandingPage.pdb
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\Grids.html
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\index1.html
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\Index.html
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\BootStrapTheme1.html
