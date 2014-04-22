@@ -1,0 +1,1 @@
+xcopy LandingPage\bootstrap LandingPage\bin\bootstrap /H /Y /C /R /S

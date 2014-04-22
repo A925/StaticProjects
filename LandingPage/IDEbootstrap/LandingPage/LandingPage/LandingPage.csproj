@@ -64,6 +64,13 @@
     <Content Include="bootstrap\css\bootstrap-theme.min.css" />
     <Content Include="bootstrap\css\bootstrap.css" />
     <Content Include="bootstrap\css\bootstrap.min.css" />
+    <Content Include="bootstrap\icons\140Face.jpeg" />
+    <Content Include="bootstrap\icons\2014.04.22_10-29-27.jpeg" />
+    <Content Include="bootstrap\myCss\carousel.css" />
+    <Content Include="bootstrap\myCss\cover.css" />
+    <Content Include="bootstrap\myCss\navbar-fixed-top.css" />
+    <Content Include="bootstrap\myCss\navbar-static-top.css" />
+    <Content Include="bootstrap\css\StyleSheet1.css" />
     <Content Include="bootstrap\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="bootstrap\icons\favicon.ico" />
     <Content Include="bootstrap\js\bootstrap.js" />
@@ -71,8 +78,15 @@
     <Content Include="bootstrap\myCss\grid.css" />
     <Content Include="bootstrap\myCss\jumbotron-narrow.css" />
     <Content Include="bootstrap\myCss\jumbotron.css" />
+    <Content Include="bootstrap\myCss\navbar.css" />
     <Content Include="bootstrap\myCss\theme.css" />
     <Content Include="bootstrap\myJs\docs.min.js" />
+    <Content Include="Carousel.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Cover.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Grids.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -86,6 +100,15 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="JumbotronHeading.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="navbar-fixed-top.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="NavbarExample.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="NavbarStaticTop.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Web.config" />
@@ -132,6 +155,13 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PostBuildEvent>xcopy /Y /E "$(ProjectDir)\bootstrap" "$(TargetDir)\bootstrap\"</PostBuildEvent>
+  </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
