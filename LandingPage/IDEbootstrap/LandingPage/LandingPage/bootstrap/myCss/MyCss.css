@@ -1,0 +1,75 @@
+﻿.promo {
+    background: url("/bootstrap/icons/men.jpg");
+    height: 500px;
+}
+
+.promo-bg {
+    background-image: linear-gradient(to right, black, black);
+    opacity: 0.8;
+    height: 100%;
+    width: 100%;
+}
+
+.aboutUs {
+    position: relative;
+
+    top: -450px;
+    left: 30px;
+    width: 400px;
+
+}
+
+.my h1 {
+    font-size:60px;
+    font-weight:bold;
+    font-family: 'roboto th', Arial, Verdana, sans-serif; 
+    letter-spacing:-1px;
+    line-height:1;
+    text-align: center;
+    color: #357ebd;
+}
+
+.my h2 {
+    text-align: center;
+}
+
+.my p {
+    font-size:24px;font-weight:300;line-height:1.25;margin-bottom:30px;
+    text-align: center;
+}
+
+.tinted_image {
+    width: 900px;
+    height: 500px;
+    background:    /* top, transparent red, faked with gradient */ 
+    linear-gradient(to right,
+      rgba(0, 180, 180, 0.9), 
+      rgba(255, 0, 0, 0.45)
+    ),
+    /* bottom, image */
+    url("/bootstrap/icons/men.jpg");
+}
+
+.intro h1 {
+    font-family: intro;
+    font-size: 44px;
+}
+
+.container {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.headline {
+    margin: 0 0 .5em 0;
+    padding-bottom: .5em;
+    border-bottom: 2px solid #124191;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    line-height: 1.1em;
+    color: #124191;
+
+}
+
+.default-content p {
+    font-weight: 400;
+}

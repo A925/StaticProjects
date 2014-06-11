@@ -12,3 +12,10 @@ F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPa
 F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\index1.html
 F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\Index.html
 F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\BootStrapTheme1.html
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\jumbotron.html
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\JumbotronHeading.html
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\navbar-fixed-top.html
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\NavbarExample.html
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\NavbarStaticTop.html
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\Cover.html
+F:\Projects\GitHub\StaticProjects\LandingPage\IDEbootstrap\LandingPage\LandingPage\bin\Carousel.html
